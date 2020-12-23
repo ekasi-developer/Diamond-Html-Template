@@ -1,0 +1,189 @@
+{
+    "navbar-home": "Home",
+    "navbar-about-us": "About Us",
+    "navbar-follow-diamond-career": "Follow Diamond Career",
+    "navbar-our-vision": "Our Vision",
+    "navbar-our-mission": "Our Mission",
+    "navbar-key-stakeholders": "Key Stakeholders",
+    "navbar-our-values": "Our Values",
+    "navbar-what-we-offer": "What We Offer",
+    "navbar-personal-insurance": "Personal Insurance",
+    "navbar-business-insurance": "Business Insurance",
+    "navbar-impact": "Impact",
+    "navbar-management-team": "Management Team",
+    "navbar-where-to-find-us": "Where To Find Us",
+    "navbar-contact-us": "Contact Us",
+
+    "home-title": "Get a Free Quote in Under 24hrs!, Get it now, Get Diamond Seguros",
+    "home-sub-title": "DIAMOND Diamond Companhia De Seguros",
+    "home-text": "Voce nunca sabe o que vai acontecer",
+
+    "about-us-title": "About Us",
+
+    "about-us-1-title": "Diamond Companhia de Seguros SA",
+    "about-us-1-text": "We achieve our own success through<ul class='list'><li>Unmatched career opportunities,</li><li>Tools that help us develop, and</li><li>Guidance from leaders who care.</li></ul>",
+
+    "about-us-2-title": "Value One Another",
+    "about-us-2-text": "We recognize what matters by appreciating contributions, embracing perspectives, and supporting each other professionally and personally",
+
+    "about-us-3-title": "Value One Another",
+    "about-us-3-text": "To achieve financial protection, Diamond Seguros, SA is committed to proper and right pricing of risks and focus on the bottom line.",
+
+    "about-us-4-title": "Value One Another",
+    "about-us-4-text": "We operate in a responsible manner, grow, respecting the values and commitment to our partners.",
+
+    "about-us-5-title": "Value One Another",
+    "about-us-5-text": "We perform market research to identify new opportunities and engage with executive to establish strategies for pursuing those new opportunities.",
+
+    "about-us-6-title": "Value One Another",
+    "about-us-6-text": "<b>DIAMOND SEGUROS</b>, opened an agency in Chimoio in 2016 Matola branch was opened in 2018 and in 2020 we opened a new branch in Beira. The company has also a satellite office for selling third party insurance at Machipanda border, and is expanding to other borders.",
+
+    "career-title": "Follow Diamond Career",
+    "career-sub-title": "What Sets Diamond",
+
+    "career-clients": "Clients:",
+    "career-clients-description": "At Diamond Seguros, SA everything starts with the client. The Diamond Client Promise sets the foundation for trusted client relationships. We put listening to our client’s needs and understanding their goals at the heart of everything we do.",
+
+    "career-colleagues": "Colleagues:",
+    "career-colleagues-description": "Being a part of Diamond means having opportunities to make a difference - whether you support a local organization, serve a large global account or support colleagues who support clients.",
+
+    "career-culture": "Culture:",
+    "career-culture-description": "In our inclusive culture, everyone has opportunities for growth and development. We know that leveraging the diverse cultures, backgrounds, and experiences of our colleagues improves work quality, fosters innovation, and enhances results.",
+
+    "key-stakeholders-title": "Key StakeHolders",
+
+    "key-stakeholders-client": "- Clients",
+
+    "key-stakeholders-employees": "- Employees",
+
+    "key-stakeholders-shareholders": "- Shareholders",
+
+    "key-stakeholders-goverment": "- Government",
+
+    "key-stakeholders-community": "- Community",
+
+    "what-we-offer": "What We Offer",
+
+    "our-values": "Our Values",
+
+    "our-values-innovation": "Innovation",
+    "our-values-innovation-text": "Doing things different.",
+
+    "our-values-professionalism": "Professionalism",
+    "our-values-professionalism-text": "To be a trustworthy, competent, respectful, considerate, and acting with integrity.",
+
+    "our-values-accountability": "Accountability",
+    "our-values-accountability-text": "Have authority, responsibility, ownership and meet stakeholders’ expectations and transparency.",
+
+    "our-values-teamwork": "Teamwork",
+    "our-values-teamwork-text": "Team effort to achieve common goals.",
+
+    "our-values-excellence": "Excellence",
+    "our-values-excellence-text": "Being the best, have the art of mastering and should have superior quality.",
+
+    "our-values-diamond-sub-title": "Diamond Companhia de Seguros SA",
+    "our-values-diamond-sub-text": "To be a highly visible and preferred provider of innovative risk management solutions in our chosen markets",
+
+    "business-insurance": "Business Insurance",
+
+    "business-insurance-assets-all-risk-title": "ASSETS ALL RISK",
+    "business-insurance-assets-all-risk-text": "This is an all-encompassing insurance option for businesses to cover the following: Property loss or damage, Business interruption, Business all risks, Account receivables, Money Glass, Fidelity guarantee, etc",
+
+    "business-insurance-liabilities-insurance-title": "Liabilities INSURANCE",
+    "business-insurance-liabilities-insurance-text": "Covers a business’s exposure to various forms of legal liabilities for death or injury and /or damage to property, arising from negligent commission or omission of duty of care, such as: Public Liability, Products Liability, Environmental Liability, Employers Liability, Professional Indemnity, Residual Liability",
+
+    "business-insurance-marine-insurance-title": "Marine Insurance",
+    "business-insurance-marine-insurance-text": "Marine Insurance policy protects against accidental damage to marine cargo or loss or damage to marine hull, machinery and third-party liabilities arising from use or ownership of such equipment. We cover cargo originating from or to destinations outside our borders while in transit by sea, air and road.",
+
+    "business-insurance-marine-engineering-title": "Engineering Insurance",
+    "business-insurance-marine-engineering-text": "Covers machinery breakdown and resultant deterioration of stock, plant and erection all risks, contractors all risks and resultant liabilities. This class of insurance covers a wide range of engineering related risks. Our solutions are set up to provide strong financial back up for all engineering projects:<ul><li>Contractors All Risk</li><li>Machinery Breakdown</li><li>Plant and Erection all risks</li><li>Electronic Equipment</li></ul>",
+
+    "business-insurance-marine-hospital-cash-plan-title": "Hospital Cash Plan",
+    "business-insurance-marine-hospital-cash-plan-text": " The Hospital Cash Plan is insurance cover that provides financial support for individuals when one suffers some form of income loss due to the hospitalization of dependents (spouse or children).",
+
+    "business-insurance-workmans-compensation-title": "WorkMan`s Compensation",
+    "business-insurance-workmans-compensation-text": "Workman’s compensation provides benefits to employees who get injured or sick from a work-related cause. It includes disability benefits, missed wage replacement and death benefits and It also pays death benefits to families of employees who are killed on the job.",
+
+    "personal-insurance": "Personal Insurance",
+
+    "personal-insurance-motor-third-party-title": "Motor Third Party",
+    "personal-insurance-motor-third-party-text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+
+    "personal-insurance-motor-third-party-fire-thef-title": "Motor Third Party Fire & Theft",
+    "personal-insurance-motor-third-party-fire-thef-title-text": "Some quick example text to build on the card title and make up the bulk of the card's content",
+
+    "personal-insurance-motor-comperhensive-title": "Motor Comperhensive",
+    "personal-insurance-motor-comperhensive-text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+
+    "personal-insurance-home-place-title": "Home Place",
+    "personal-insurance-home-place-text": "Covers house owners' section and house holders' section.",
+
+    "personal-insurance-personal-accident-title": "Personal Accident Insurance",
+    "personal-insurance-personal-accident-text": "Covers the insured person in case of death or bodily injury caused by accidental violent and visible means. Cover extends to include permanent disability, temporary disability, and medical expenses",
+
+    "get-a-qoute": "Get A Quote",
+
+    "impact-title": "Impact",
+    "impact-sub-title": "Make a Difference",
+    "impact-text": "- We deliver unparalleled value every day by empowering our clients, engaging our colleagues, and supporting our communities.",
+
+    "management-team-title": "Management Team",
+
+    "management-team-1-name": "Caleb Mtabvuri",
+    "management-team-1-position": "Director Geral",
+    "management-team-1-description": "Caleb is a seasoned insurance practitioner with over 21years insurance and risk management experience in four African markets (Zimbabwe, Zambia, South Africa and Mozambique). He holds Masters of Science Degree in Risk Management and Insurance, an MBA and a Bachelor’s of Commerce Honours in Insurance and Risk Management. Caleb is a Fellow member of the Institute of Insurance South Africa, an Associate member of the Institute of Risk Management South Africa.",
+
+    "management-team-2-name": "Tarukumbira Nyakudya",
+    "management-team-2-position": "Finance General Manager and Administration",
+    "management-team-2-description": "Tarukumbira is an accountant with over 20 years of experience in Finance. She holds a Master in Business Administration and a degree in Business Studies from the University of Zimbabwe. Tarukumbira is also a fellow member of the Institute of Chartered Secretaries andAdministration",
+
+    "management-team-3-name": "David Nyabadza",
+    "management-team-3-position": "Non-Executive Director",
+    "management-team-3-description": "David is the managing director for NicozDiamond Insurance. He is an established insurance professional with more than 15 years’ experience, David started his career with FBC Reinsurance as an Assistant Underwriter in 2001 and rose to become the branch manager for Bulawayo He joined the First Mutual group in 2003 as Facultative Manager for First Mutual Reinsurance at its inception.He contributed to the development of the business from a greenfield project to a marketleader with significant regional presence David was promoted to Operations Executive for First Mutual Reinsurance before taking up his current role He holds a Bachelor of Commerce Degree in Insurance and Risk Management(Zimbabwe), and a master’s degree in business administration from the Eastern and Southern African Management Institute(ESAMI).",
+
+    "management-team-4-name": "Douglas Hoto",
+    "management-team-4-position": "Non-Executive Director",
+    "management-team-4-description": "Douglas is an accomplished business leader and Group ChiefExecutive Officer of FMHL. He holds a Bachelor of Science Honours Degree in Mathematics (University of Zimbabwe), is a qualified Actuary with more than 22 years’ experience. He is a Fellow of the Institute and Faculty of Actuaries of the United Kingdom 1999 (FIFA), and is also a Fellow of the Actuarial Society of South Africa (FASSA). Douglas started his actuarial career with Old Mutual in 1990 and worked in both the Harare and Cape Town offices until 1999, when he joined First Mutual Life.He rose through the ranks to become Managing Director of First Mutual Life in 2003 and Chief Executive of First Mutual Limited in 2004 Douglas was instrumental in setting up First Mutual Reinsurance Company (FMRE Property & Casualty), TristarInsurance Company and African Actuarial Consultants from a Division of First Mutual Life Assurance Society. His career has seen him at the helm of Altfin Holdings and First Mutual Limited. In addition, Douglas is involved in community transformation initiatives focusing on education. He works closely with national development organizations and is the past chairman for Zimbabwe National Statistics Agency (ZIMSTATS). He serves on a number of boards and is a past chairman of Actuarial Society of Zimbabwe.",
+
+    "management-team-5-name": "Chishamiso Mawoyo",
+    "management-team-5-position": "Non-Executive Director",
+    "management-team-5-description": "Chishamiso is a seasoned investment and operations professional withover 22 years of combined experience in general management, private equity, corporate finance and advisory in sub-Saharan Africa. Based in Maputo, Chishamiso (Chish) is the Regional Investment Director (Southern Africa) for Norfund; the Norwegian development finance institution that invests in SME’s across the energy, agriculture manufacturing, consumer and financial services sectors. Prior to Norfund, Chish worked at BXR Agro, the agri-investment arm of BXR Partners (a Dutch private equity fund with US$ 4 billion AUM). Prior to joining BXR, Chish was the Managing Director of Rei do Agro Limitada, a green-field agri-entity that pioneered and operated an 800 Ha grain farm in Northern Mozambique. Chish has also held senior advisory and finance roles in other African-based entities including Ernst & Young, and Matanuska Mocambique Limitada. Chishamiso is a Zimbabwean national, fluent in three languages – English, Portuguese and Shona. In addition to being a Chartered Global Management Accountant (“CGMA”), and to holding a B. Compt (Bachelor of Accounting Science) from the University of South Africa, he is also an MBA graduate from IMD in Switzerland.",
+
+    "management-team-6-name": "António Costa",
+    "management-team-6-position": "Non-Executive Director",
+    "management-team-6-description": " António has a degree in Business Administration and Management (ISG, Portugal) and Strategic insurance, risk and regulatory management (BICON, Sweden / Price Forbes, South Africa) Main positions He is General Manager in Business Administration and Management consulting services at Finanserve, Lda.<br>He is the Administrator at CIM- Centro de Inspecção Automóvel, Lda and IAM-Inspecção Automóvel de Moçambique, Lda.<br>He was the Consultant and co-coordinator in the implementation of the Inspection Center in Moçambique, Lda.<br>He was General manager at Alexander Forbes Moçambique Corretores de Seguros, Lda.<br>He was General director and consultant in implementing Mozal insurance: PF Jardine Moçambique, Corretores de Seguros Moçambique, Lda.<br>He General director at Sogecor Lda.<br>He was Independent consultant and implementer of insurance brokerage.<br>He was Head of Department of Agriculture at Instituto Nacional de Açucar",
+
+    "management-team-7-name": "Octavio Manhique",
+    "management-team-7-position": "Non-Executive Director",
+    "management-team-7-description": "Octavio was appointed Head of General Manager for Organization & Methods in 2015. Previously Octavio was Head of Operations from 2004.<br>He joined in 2000 BNP Nedbank, then BancABC as Chief Accountant. He started his banking career in 1985 when he joined Banco de Moçambique.<br>He spent 20 years of his career in Finance where he held several positions at Banco de Mocambique and the last position he held was Chief Accountant. In 1992, with the of split of comercial functions at the Central Bank he was part of the founding team of Banco Comercial de Moçambique, as Chief Accountant. Later he moved to the Treasury Department has Senior Treasury Manager <br> He holds BSc(Hons) degree in Management from Eduardo Mondlane University and a Diploma in Economic Principles and Postgraduate in Financial Management from the University of London.",
+
+    "management-team-8-name": "Aggripa Masamha",
+    "management-team-8-position": "Non-Executive Director",
+    "management-team-8-description": "Aggrippa is currently the Enterprise IT Service Transition Manager for a huge International NGO.<br>He holds a Bachelor of Commerce (Management) – UNISA and an Advanced Diploma in Telecommunications & Electronic Engineering - City & Guilds.<br>He is currently completing a double Masters in Masters in IT and Masters in Business Administration (IT) with Charles Sturt University.<br>Aggrippa also holds various IT industry certifications such as CISM, CISA, CISM, CGEIT, ITIL and others.<br>Aggrippa has more than 24 years’ experience in various regional and global leadership positions in the IT industry.<br>This has included working on various IT governance, audit and security projects both regionally and globally.Of recent he successfully led a global project to deploy enterprise wide IT processes for a huge international NGO, which involved working with consultancy firms such as Hackett, Info - tech and Gartner.",
+
+    "management-team-9-name": "Sara Americano",
+    "management-team-9-position": "Non-Executive Director",
+    "management-team-9-description": "Sara has spent the last 20 years of her professional career in both administrative and management positions.<br>After completion of Honours degree in Law in 2013, she started her career as a lawyer at Law firm Monteiro e Graça Associados (MGA) and at later stage as a consultant at KPMG.<br>From the last 12 years she has worked in the Oil and Gas Industry at Sasol as Senior Legal Advisor and, in the last 5 years as Senior Police Specialist.<br>During this period, she had the privilege of working not only in the legal area but also in the management area as Board Member, gaining solid experience in all matters related to legal issues and management to run operations of the oil and gas Industry in Mozambique.",
+
+    "where-to-find-us-title": "Where to find us",
+    "where-to-find-us-sub-title": "Location",
+
+    "where-to-find-us-head-office": "Head Office",
+
+    "where-to-find-us-branch-1": "Branch 1",
+
+    "where-to-find-us-branch-2": "Branch 2",
+
+    "where-to-find-us-branch-3": "Branch 3",
+
+    "our-mission-title": "OUR MISSION",
+    "our-mission-sub-title": "Diamond Companhia de Seguros SA",
+    "our-mission-text": "To provide innovative, risk management solutions supported by a highly dedicated team for the benefit of all stakeholders",
+
+    "our-vision-title": "OUR VISION",
+    "our-vision-sub-title": "Diamond Companhia de Seguros SA",
+    "our-vision-text": "To be a highly visible and preferred provider of innovative risk management solutions in our chosen markets",
+
+    "next": "Next",
+    "previous": "Previous"
+}
