@@ -37,7 +37,8 @@
                 typeSpeed: 80,
                 loop: true,
                 backDelay: 1100,
-                backSpeed: 80
+                backSpeed: 80,
+                showCursor: false
             });
         }
     }

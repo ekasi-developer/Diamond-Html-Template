@@ -1,6 +1,5 @@
 (function() {
 
-
     /* Setup dragable element */
 
     $('.dragend').dragend({
@@ -52,9 +51,10 @@
         alerts.addClass('d-none');
         loader.removeClass('d-none');
 
-        $.post('api/contact-us.php', $(this).serialize())
+        $.post('api/contact-us.php', form.serialize())
             .done(function(message) {
                 displayMessage(message);
+                form.trigger('reset');
                 $('.loader.sending-contact-form').toggleClass('d-none');
             })
             .fail(function(error) {
@@ -64,5 +64,4 @@
 
         event.preventDefault();
     });
-
 }());

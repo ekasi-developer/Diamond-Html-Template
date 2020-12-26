@@ -55,12 +55,9 @@ body {
 /* Global */
 
 .big-title {
-    font-size: 4.5em;
-}
-
-.big-title span {
     font-family: -futuraStd-heavy;
     font-weight: bolder;
+    font-size: 3.5em;
 }
 
 .big-title-sub {
@@ -71,6 +68,12 @@ body {
 .big-title-text {
     font-weight: 100;
     font-size: 1.3em;
+}
+
+@media (min-height: 768px) {
+    .big-title {
+        font-size: 5.5em;
+    }
 }
 
 .text-light-blue {
@@ -261,6 +264,18 @@ body {
     }
     .management-container {
         padding-bottom: 20px;
+    }
+}
+
+@media (min-width: 768px) {
+    .carousel-management-team .picture img {
+        width: 190px;
+        height: 190px;
+        position: relative;
+        bottom: 80px;
+        margin-bottom: -80px;
+        border-radius: 100%;
+        border: 8px solid #005CAB;
     }
 }
 
@@ -472,8 +487,6 @@ body {
 .navbar .navbar-nav .nav-item.dropdown .dropdown-menu .btn:hover {
     color: #000;
 }
-
-.navbar .navbar-nav .nav-item.language .dropdown-menu {}
 
 
 /* .Content */
