@@ -17,7 +17,7 @@
                 carousel.carousel(pageNumber);
             }
         }
-    });
+    }).find('.dragend-page').addClass('p-2');
 
     /* Contact Us Form Submition */
 

@@ -1,0 +1,21 @@
+.blinker {
+    animation: blinkerFrames 1s ease-in infinite;
+}
+
+@keyframes blinkerFrames {
+    20% {
+        opacity: 1;
+    }
+    40% {
+        opacity: .8;
+    }
+    60% {
+        opacity: .6;
+    }
+    80% {
+        opacity: .4;
+    }
+    100% {
+        opacity: .2;
+    }
+}

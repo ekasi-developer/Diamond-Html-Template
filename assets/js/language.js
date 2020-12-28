@@ -1,5 +1,5 @@
 (function() {
-    const LangaugesIcon = { en: 'flag-icon flag-icon-gb-eng', pt: 'flag-icon flag-icon-mz' };
+    const LangaugesIcons = { en: 'flag-icon flag-icon-gb-eng', pt: 'flag-icon flag-icon-mz' };
     let btnSelectLanguage = $('.select-language');
     let mainIcon = $('#seleted-language-icon');
     let displayTyped;
@@ -9,7 +9,8 @@
     }
 
     function setLanguage(language) {
-        if (LangaugesIcon[language] == undefined) return;
+        if (LangaugesIcons[language] == undefined)
+            return;
         $.cookie('language', language, { expires: 7, path: '/' })
         fetchLanguage(language);
     }
@@ -17,9 +18,10 @@
     function changeLanguagesIcon(language) {
         btnSelectLanguage.map(function() {
             let elem = $(this).addClass('d-none');
-            if (elem.attr('value') != language) elem.removeClass('d-none');
+            if (elem.attr('value') != language)
+                elem.removeClass('d-none');
         });
-        mainIcon.removeClass().addClass(LangaugesIcon[language]);
+        mainIcon.removeClass().addClass(LangaugesIcons[language]);
     }
 
     function fetchLanguage(language) {
@@ -29,7 +31,8 @@
     }
 
     function homeTypeSetup() {
-        if (displayTyped) displayTyped.destroy();
+        if (displayTyped)
+            displayTyped.destroy();
         if ($('.display-typed').length == 1) {
             var typed_strings = $('.home-typed').text();
             displayTyped = new Typed('.display-typed', {
