@@ -1,5 +1,13 @@
 (function() {
 
+    /* Setup video introduction  */
+
+    let introVideo = document.getElementById('video-introduction');
+    if (introVideo) {
+        introVideo.addEventListener('ended', event => $('.video-introduction').fadeOut(1200));
+        introVideo.oncanplaythrough = event => introVideo.play()
+    }
+
     /* Setup dragable element */
 
     $('.dragend').dragend({
