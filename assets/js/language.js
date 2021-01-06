@@ -51,11 +51,20 @@
         $('.card-career').matchHeight();
     }
 
-    // Language Setup
+    /* Deley home page by 5 seconds for the animation */
 
-    setLanguage(getCurrentLanguage());
+    const videoLoader = $('.video-loader');
+    if (videoLoader.length) {
+        setTimeout(() => {
+            videoLoader.fadeOut(1000, function() {
+                $(this).addClass('d-none');
+                setLanguage(getCurrentLanguage());
+            });
+        }, 5000);
+    } else {
+        setLanguage(getCurrentLanguage());
+    }
 
     btnSelectLanguage.click(function() { setLanguage($(this).attr('value')); });
-
 
 }());
